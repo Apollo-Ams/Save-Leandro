@@ -1,0 +1,66 @@
+body {
+    background: url(imagem/fundo.png);
+}
+
+#leandro-container img {
+    border: 7px solid yellow;
+}
+
+#leandro-container{
+    margin: 10px solid red;
+    padding: 20px;
+    text-align: center;
+    width: 965px;
+}
+
+#leandro-container h1 {
+    color: white;
+    font-family: times, Arial, Helvetica, sans-serif;
+    font-size: 112px;
+    margin: 0;
+    padding-top: 12px;
+}
+
+#leandro-container h3 {
+    font-size: 40px;
+    font-weight: normal;
+    margin: 0;
+}
+
+#primeiro {
+    list-style-type: none;
+    margin: 0;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+#leandro-container p {
+    font-weight: bold;
+    margin: 1em 50px;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.branco {
+    color: white;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    color: white;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 25px;
+}
